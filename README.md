@@ -56,4 +56,6 @@ The suspicious activity originated from within the internal network and was caus
 This project helped me understand how cybersecurity analysts:
 - Analyze log data to detect anomalies  
 - Identify patterns of automated or malicious behavior  
-- Investigate internal threats using structured data  
+- Investigate internal threats using structured data
+ ## update 
+- Updated project structure and fixed git author configuration 
